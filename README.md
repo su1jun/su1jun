@@ -18,7 +18,7 @@
   <br><br>
 </div>
 <div align="left>
-  <h4><b>:wrench: Sub Tech Stack :wrench:<b><h4>
+  <h4><b>:wrench: Sub Tech Stack :wrench:<b></h4>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
@@ -31,8 +31,8 @@
   <img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
-<div align="left>
-  <h4><b>:books: Goal Tech Stack :books:<b><h4>
+<div align="right">
+  <h4><b>:books: Goal Tech Stack :books:<b></h4>
   <img src="https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
   <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/elastic-005571?style=for-the-badge&logo=elastic&logoColor=white">
   <br>
 </div>
-<div align="center>
+<div align="center">
   <br><br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sujun"/>
 </div>
