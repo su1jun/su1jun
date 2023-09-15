@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1061e8&height=120&section=header&text=Mirror%20World&fontSize=40"&fontColor=ffffff/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1061e8&height=120&section=header&text=Mirror%20World&fontSize=40&fontColor=ffffff/>
   <h2><b>🛠 Main Tech Stack 🛠</b></h2>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
