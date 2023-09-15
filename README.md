@@ -20,7 +20,7 @@
 </div>
 <div align="center">
 <h2>😆 Hello there! 👋</h2>
-<h4>I'm junior who want to be backend developer💻<br> or data engineer📊</h4>
+<h4>I'm junior who want to be<br>backend developer💻 or data engineer📊</h4>
 🎓 Seoul National University of Science and Technology<br>
 💁 IT/SeoulTech-Intern<br>
 <br><br>
