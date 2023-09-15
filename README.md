@@ -16,12 +16,12 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br><br>
-  <h4><b align="left">:wrench: Sub Tech Stack :wrench:</b>  <b align="right">:books: Goal Tech Stack :books:</b></h4>
+  <h4><p align="left"><b>:wrench: Sub Tech Stack :wrench:</b></p>  <p align="right"><b>:books: Goal Tech Stack :books:</b></p></h4>
   <img align="left" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="left" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="left" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <img align="left" src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
-
+  <p>             </p>
   <img align="right" src="https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
   <img align="right" src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
   <img align="right" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -31,7 +31,7 @@
   <img align="left" src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
   <img align="left" src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
   <img align="left" src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-
+  <p>             </p>
   <img align="right" src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
   <img align="right" src="https://img.shields.io/badge/elastic-005571?style=for-the-badge&logo=elastic&logoColor=white">
   <img align="right" src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -39,7 +39,7 @@
   <br>
   <img align="left" src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
   <img align="left" src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-
+  <p>             </p>
   <br>
   <br><br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sujun"/>
