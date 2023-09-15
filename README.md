@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3dd917&height=120&section=header&text=su1jun&fontSize=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6aa84f&height=120&section=header&text=su1jun&fontSize=50&fontColor=ffffff" />
   <img width="385px" align="right"  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sujun"/>
   <h2><b>🛠 Main Tech Stack 🛠</b></h2>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -24,7 +24,7 @@
   🎓 Seoul National University of Science and Technology<br>
   💁 IT/SeoulTech-Intern<br>
   <br>
-  <img src="https://github.com/su1jun/su1jun/assets/120762843/92481fda-64cb-4b83-8200-617750cf6cfe"/>
+  <img width="405" height="504" src="https://github.com/su1jun/su1jun/assets/120762843/92481fda-64cb-4b83-8200-617750cf6cfe"/>
 <br><br>
 </div>
   
