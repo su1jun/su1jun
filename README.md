@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
   <br><br>
-  <hr>
 </div>
 <div align="left">
   <h2><b>:wrench: Sub Tech Stack :wrench:<b></h2>
@@ -43,7 +42,7 @@
   <img src="https://img.shields.io/badge/elastic-005571?style=flat-square&logo=elastic&logoColor=white">
   <br>
 </div>
-
+<hr>
 <!--
 **su1jun/su1jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
