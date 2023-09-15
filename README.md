@@ -24,7 +24,7 @@
   🎓 Seoul National University of Science and Technology<br>
   💁 IT/SeoulTech-Intern<br>
   <br>
-  <img width="405" height="504" src="https://github.com/su1jun/su1jun/assets/120762843/92481fda-64cb-4b83-8200-617750cf6cfe"/>
+  <img width="422" height="473" src="https://github.com/su1jun/su1jun/assets/120762843/92481fda-64cb-4b83-8200-617750cf6cfe"/>
 <br><br>
 </div>
   
