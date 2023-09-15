@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br><br>
-  <h4><b>:wrench: Sub Tech Stack :wrench:</b></h4> | <h4><b>:books: Goal Tech Stack :books:</b></h4>
+  <h4><b>:wrench: Sub Tech Stack :wrench:</b> | <b>:books: Goal Tech Stack :books:</b></h4>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
