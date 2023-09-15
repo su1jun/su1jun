@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1061e8&height=120&section=header&text=Su1jun%20Repo&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1061e8&height=120&section=header&text=su1jun&fontSize=40&fontColor=ffffff" />
   <img width="385px" align="right"  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sujun"/>
   <h2><b>🛠 Main Tech Stack 🛠</b></h2>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
