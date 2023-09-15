@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1061e8&height=120&section=header&text=Mirror%20World&fontSize=40&fontColor=ffffff" />
+  <img width="385px" align="right"  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sujun"/>
   <h2><b>🛠 Main Tech Stack 🛠</b></h2>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
@@ -43,10 +44,6 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/elastic-005571?style=for-the-badge&logo=elastic&logoColor=white">
   <br>
-</div>
-<div align="center">
-  <br><br>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sujun"/>
 </div>
 
 <!--
