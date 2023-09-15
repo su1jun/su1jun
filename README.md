@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1061e8&height=120&section=header&text=Mirror%20World&fontSize=50"&fontColor=eeeeee&desc=Hello%20MyRepo!/>
-  
-  <h3><b>🛠 Main Tech Stack 🛠</b></h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1061e8&height=120&section=header&text=Mirror%20World&fontSize=40"&fontColor=ffffff/>
+  <h2><b>🛠 Main Tech Stack 🛠</b></h2>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
   <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
@@ -42,9 +41,7 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/elastic-005571?style=for-the-badge&logo=elastic&logoColor=white">
   <br><br>
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={sujun})](https://solved.ac/{sujun})
-</div>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sujun"/>
 
 <!--
 **su1jun/su1jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
