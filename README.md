@@ -1,3 +1,15 @@
+<style>
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+      display: inline;
+  }
+</style>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1061e8&height=120&section=header&text=Mirror%20World&fontSize=40&fontColor=ffffff" />
   <h2><b>🛠 Main Tech Stack 🛠</b></h2>
