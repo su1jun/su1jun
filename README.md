@@ -18,6 +18,14 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
   <br><br>
 </div>
+<div align="center">
+<h2>😆 Hello there! 👋</h2>
+<h4>I'm junior who want to be backend developer💻 or data engineer📊</h4>
+🎓 Seoul National University of Science and Technology
+💁 IT/SeoulTech-Intern<br>
+<br><br>
+</div>
+  
 <div align="left">
   <h4><b>      :wrench: Sub Tech Stack :wrench:<b></h4>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
