@@ -19,10 +19,11 @@
   <br><br><br>
 </div>
 <div align="center">
-<h2>😆 Hello there! 👋</h2>
-<h4>I'm junior who want to be<br>backend developer💻 or data engineer📊</h4>
-🎓 Seoul National University of Science and Technology<br>
-💁 IT/SeoulTech-Intern<br>
+  <h2>😆 Hello there! 👋</h2>
+  <h4>I'm junior who want to be<br>backend developer💻 or data engineer📊</h4>
+  🎓 Seoul National University of Science and Technology<br>
+  💁 IT/SeoulTech-Intern<br>
+  <img src="(https://github.com/su1jun/su1jun/assets/120762843/b9e9273b-d15b-428d-954e-2683966afb62)">
 <br><br>
 </div>
   
