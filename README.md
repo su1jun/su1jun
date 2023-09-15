@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=false%20rworld&fontSize=80"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#1235A8&height=120&section=header&text=Mirror%20rWorld&fontSize=60"&fontColor=eeeeee&desc=Hello%20MyRepo/>
   
   <h3><b>🛠 Main Tech Stack 🛠</b></h3>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br><br>
-  <h3><b>:wrench: Sub Tech Stack :wrench:</b></h3>
+  <h4><b>:wrench: Sub Tech Stack :wrench:</b></h4>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
@@ -30,8 +30,8 @@
   <br>
   <img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-
-  <h3><b>:books: Goal Tech Stack :books:</b></h3>
+  <br><br>
+  <h4><b>:books: Goal Tech Stack :books:</b></h4>
   <img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
   <img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -41,8 +41,8 @@
   <img src="https://img.shields.io/badge/elastic-005571?style=for-the-badge&logo=elastic&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/elastic-005571?style=for-the-badge&logo=elastic&logoColor=white">
-
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={sujun})](https://solved.ac/{sujun})
+  <br><br>
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sujun)](https://solved.ac/sujun)
 </div>
 
 <!--
