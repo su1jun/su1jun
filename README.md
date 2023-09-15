@@ -19,7 +19,7 @@
   <br><br>
 </div>
 <div align="left">
-  <h4><b>:wrench: Sub Tech Stack :wrench:<b></h4>
+  <h4><b>   :wrench: Sub Tech Stack :wrench:<b></h4>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
 </div>
 <div align="right">
-  <h4><b>:books: Goal Tech Stack :books: <b></h4>
+  <h4><b>:books: Goal Tech Stack :books:   <b></h4>
   <img src="https://img.shields.io/badge/hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white">
   <img src="https://img.shields.io/badge/kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
