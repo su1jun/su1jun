@@ -1,19 +1,20 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=118F6E&height=120&section=header&text=su1jun&fontSize=50&fontColor=ffffff" />
   <img width="385px" align="right"  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sujun"/>
+  <br>
   <h2><b>🛠 Main Tech Stack 🛠</b></h2>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
   <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/spacy-09A3D5?style=flat-square&logo=spacy&logoColor=white">
-  <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=selenium&logoColor=white">
   <br>
+  <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=selenium&logoColor=white">
   <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/vsCode-007ACC?style=flat-square&logo=visualstudiocode%20IDE&logoColor=white">
   <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter%20IDE&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
   <br><br><br>
@@ -34,11 +35,12 @@
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white">
   <br>
+  <img src="https://img.shields.io/badge/nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white">
   <img src="https://img.shields.io/badge/photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/trello-0052CC?style=flat-square&logo=trello&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
 </div>
