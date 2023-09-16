@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=118F6E&height=120&section=header&text=su1jun&fontSize=50&fontColor=ffffff" />
   <img width="385px" align="right" ppadding='20px' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sujun"/>
-  <br>
+  <br><br>
   <h2><b>🛠 Main Tech Stack 🛠</b></h2>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
@@ -20,6 +20,7 @@
   <br><br>
 </div>
 <div align="center">
+  <br>
   <h2>😆 Hello there! 👋</h2>
   <h4>I'm junior who want to be<br>backend developer💻 or data engineer📊</h4>
   🎓 Seoul National University of Science and Technology<br>
