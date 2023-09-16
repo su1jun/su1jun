@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=118F6E&height=120&section=header&text=su1jun&fontSize=50&fontColor=ffffff" />
-  <img width="385px" align="right"  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sujun"/>
+  <img width="385px" align="right" ppadding='10px' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sujun"/>
   <br>
   <h2><b>🛠 Main Tech Stack 🛠</b></h2>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter%20IDE&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
-  <br><br><br>
+  <br><br>
 </div>
 <div align="center">
   <h2>😆 Hello there! 👋</h2>
