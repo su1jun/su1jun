@@ -35,15 +35,14 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white">
   <img src="https://img.shields.io/badge/photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/trello-0052CC?style=flat-square&logo=trello&logoColor=white">
-  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
+  <br>
+  
 </div>
 <div align="right">
   <h4><b>:books: Goal Tech Stack :books:      <b></h4>
@@ -84,4 +83,6 @@ Here are some ideas to get you started:
 //scikitlearn
 <img src="https://img.shields.io/badge/scikitlearn-#F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
 
+<img src="https://img.shields.io/badge/nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
 -->
