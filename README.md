@@ -7,12 +7,10 @@
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <br>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badg&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <br>
   <img src="https://img.shields.io/badge/vsCode-007ACC?style=for-the-badge&logo=visualstudiocode%20IDE&logoColor=white">
   <img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea%20IDE&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
