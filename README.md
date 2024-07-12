@@ -70,10 +70,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-//numpy
-<img src="https://img.shields.io/badge/numpy-#013243?style=flat-square&logo=numpy&logoColor=white">
-//pandas
-<img src="https://img.shields.io/badge/pandas-#150458?style=flat-square&logo=pandas&logoColor=white">
 //pytorch
 <img src="https://img.shields.io/badge/pytorch-#EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
 //tensorflow
