@@ -21,7 +21,7 @@
   <h2>😆 Hello there! 👋</h2>
   <h4>I'm junior who want to be<br>backend developer💻 or data engineer📊</h4>
   🎓 Seoul National University of Science and Technology<br>
-  💁 IT/SeoulTech-Intern<br>
+  💁 IT/SeoulTech-Intern<br><br>
   📑 What is the first letter?<br>
   => <b>P<b>: Project, <b>C<b>: Clone, <b>T<b>: Toy, <b>E<b>: Edu<br>
   <br>
