@@ -22,8 +22,6 @@
   <h4>I'm junior who want to be<br>backend developer💻 or data engineer📊</h4>
   🎓 Seoul National University of Science and Technology<br>
   💁 IT/SeoulTech-Intern<br><br>
-  📑 What is the first letter?<br>
-  => <b>P</b>: Project, <b>C</b>: Clone, <b>T</b>: Toy, <b>E</b>: Edu<br>
   <br>
   <img width="405" height="446" src="https://github.com/su1jun/su1jun/assets/120762843/92481fda-64cb-4b83-8200-617750cf6cfe"/>
 <br><br>
