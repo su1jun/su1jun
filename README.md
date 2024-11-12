@@ -26,32 +26,7 @@
   <img width="405" height="446" src="https://github.com/su1jun/su1jun/assets/120762843/92481fda-64cb-4b83-8200-617750cf6cfe"/>
 <br><br>
 </div>
-  
-<div align="left">
-  <h4><b>      :wrench: Sub Tech Stack :wrench:<b></h4>
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
-  <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-  <br>
-  
-</div>
-<div align="right">
-  <h4><b>:books: Goal Tech Stack :books:      <b></h4>
-  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black">
-  <img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=black">
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=black">
-  <br>
-</div>
-<hr>
+
 <!--
 **su1jun/su1jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
